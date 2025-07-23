@@ -138,7 +138,6 @@ describe('Function "moviesAverageOfDirector"', () => {
       }
     ], 'Quentin Tarantino')).toBe(8.65);
   });
-
 });
 
 // Exercise 4
